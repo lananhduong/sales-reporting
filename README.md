@@ -2,7 +2,7 @@
 
 Conduct a Report using Matplotlib library on 200,000 sales data points to answer revenue-related questions for the business.
 
-# Tasks:
+# Tasks
 1. Cleaning & Preprocessing Data
 2. Reporting: Answering business questions
   - What was the best month for sales? How much was earned that month?
